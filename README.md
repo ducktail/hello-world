@@ -1,2 +1,3 @@
 # hello-world
-hello everyone
+You say 'YES'.
+I say 'NO'.
