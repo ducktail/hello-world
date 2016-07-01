@@ -1,3 +1,2 @@
 # hello-world
-You say 'YES'.
-I say 'NO'.
+You say goodbye and I say hello.
